@@ -9,4 +9,4 @@ UIViewAnimationOptions.curveEaseOut
 UIViewAnimationOptions.curveLinear
 
 ##Walkthrough
-![WalkThrough]()
+![WalkThrough](https://cloud.githubusercontent.com/assets/6208036/17453884/bfe807c2-5b4a-11e6-8bdd-a79e09149d8f.gif)
